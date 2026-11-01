@@ -1,10 +1,10 @@
-Changelog
+# Changelog
 
 All notable changes to Nubaish Downloader will be documented here.
 
-[1.1.0] - 2026-11-01
+# [1.1.0] - 2026-11-01
 
-Features
+# Features
 
 - Interactive terminal interface.
 - Animated terminal banner.
@@ -18,7 +18,7 @@ Features
 - Custom output directory.
 - Command-line interface.
 
-Compatibility
+# Compatibility
 
 - Android (Termux)
 - Windows
